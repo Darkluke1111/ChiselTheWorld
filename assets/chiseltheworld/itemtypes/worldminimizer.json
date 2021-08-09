@@ -1,0 +1,10 @@
+﻿{
+	"code": "worldminimizer",
+	"class":  "ItemWorldMinimizer",
+	"creativeinventory": {
+		"general": [ "*" ]
+	},
+	"texture": {
+		"base": "item/wand"
+	}
+}

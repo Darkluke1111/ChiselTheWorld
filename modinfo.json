@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "chiseltheworld",
+  "name": "ChiselTheWorld",
+  "author": "Darkluke1111",
+  "description": "Helps you chisel a 3D worldmap",
+  "version": "0.0.1",
+  "dependency": {
+    "game": "1.14.10"
+  }
+}
